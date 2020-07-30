@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sloppy-Stoppie-E-Watchie</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="pause">Pause</string>
+    <string name="stop_watch">Stop Watch</string>
+    <string name="countdown_timer">CountDown Timer</string>
+</resources>
